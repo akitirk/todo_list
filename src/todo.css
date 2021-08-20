@@ -1,0 +1,12 @@
+input[type="checkbox"]:checked,
+.strikethrough {
+  text-decoration: line-through;
+}
+
+li {
+  list-style-type: none;
+}
+
+.btn {
+  margin-left: 5%;
+}
